@@ -1,5 +1,3 @@
-# Spec Review of Agent, Template and Report
-
 ## Agent
 
 An Agent is essentially a configuration that includes a specific Prompt and corresponding Examples. Each Agent is designed to handle a particular section within a Template. By leveraging available data sources, an Agent utilizes Generative AI to produce content for its assigned section. The primary goal of an Agent is to generate the desired output as specified by the user for that section.

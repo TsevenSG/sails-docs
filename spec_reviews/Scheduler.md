@@ -1,5 +1,3 @@
-Generate document for the feature follow example below
-
 ## Scheduler
 
 The Scheduler is a feature designed to automate the generation of Reports at specified times and intervals. Users can set up schedules to generate Reports based on predefined Templates, ensuring timely and consistent delivery without manual intervention.
